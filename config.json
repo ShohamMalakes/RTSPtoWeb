@@ -27,12 +27,12 @@
     "27aec28e-6181-4753-9acd-0456a75f0289": {
       "channels": {
         "0": {
-          "url": "rtmp://171.25.232.10/12d525bc9f014e209c1280bc0d46a87e",
+          "url": "rtsp://192.168.1.88",
           "debug": false,
           "audio": true
         }
       },
-      "name": "111111111"
+      "name": "aviv"
     }
   }
 }
